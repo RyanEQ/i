@@ -1,0 +1,222 @@
+a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(205, 220, 205);
+    font-style: bold;
+
+}
+nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(230, 230, 218);
+    height: 45px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+body{
+    background-color:rgb(220, 212, 212);
+}
+
+
+img{
+    margin: 20px;
+    
+}
+.container{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.as{
+    width: 35%;
+    background-color:rgb(152, 152, 175);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    float: right;
+    padding-left: 35px;
+}
+footer{
+    background-color: yellow;
+    height: 45px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+.cot{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.ae1{
+    width: 35%;
+    min-width: 600px;
+   
+   padding-top: 50px;
+}
+.ae2{
+    position: absolute;
+    width: 35%;
+    margin-left: 750px;
+    bottom: 89px;
+    padding-top: 50px;
+    min-width: 600px;
+}
+
+th,td{
+    
+    padding: 30px; 
+    align-items: center;
+}
+
+#maap{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 150px;
+    z-index: -1;
+}
+#place1{
+    position: absolute;
+    transform: scale(2);
+    margin-left:1025px;
+    bottom: 570px;
+    z-index: 1;
+    color: yellow;
+
+}
+#place2{
+    position: absolute;
+    transform: scale(2);
+    margin-left:225px;
+    bottom: 350px;
+    z-index: 1;
+    color: blue;
+
+}
+#place3{
+    position: absolute;
+    transform: scale(2);
+    margin-left:1225px;
+    bottom: 70px;
+    z-index: 1;
+    color: green;
+
+}
+.num1{
+   position: absolute;
+   margin-left:1022px;
+   top: 176px;
+   z-index: 3;
+}
+.num2{
+    position: absolute;
+    margin-left:225px;
+    bottom: 315px;
+    z-index: 3;
+    color: white;
+
+ }
+ .num3{
+    position: absolute;
+    margin-left:1225px;
+    bottom: 35px;
+    z-index: 3;
+    color: white;
+ }
+ 
+.but1{
+    position: absolute;
+    transform: scale(2);
+    margin-left:1025px;
+    bottom: 570px;
+    z-index: 1;
+}
+#lit1{
+    height: 490px;
+    width: 300px;
+    transform: scale(0.9);
+    background-color: rgb(205, 220, 205);
+    position: relative ;
+    margin-left: 200px;
+    bottom: -750px;
+}
+#lit2{
+    height: 490px;
+    width: 300px;
+    transform: scale(0.9);
+    background-color: rgb(205, 220, 205);
+    position: relative ;
+    margin-left: 600px;
+    bottom: -260px;
+}
+#lit3{
+    height: 490px;
+    width: 300px;
+    transform: scale(0.9);
+    background-color: rgb(205, 220, 205);
+    position: relative ;
+    margin-left: 1000px;
+    bottom: 230px;
+}
+#imma{
+    width:265px;
+    margin-left: 17.5px;
+
+}
+h2{
+  text-align: center;
+}
+.rew{
+    text-align: center;
+    color: white;
+
+}
+
+.rei{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(146, 208, 146);
+    border-radius: 30px;
+  
+    position: absolute;
+}
+.ree1{
+   
+    margin-left: 20px;
+}
+.ree2{
+    margin-left: 520px;
+}
+.ree3{
+    margin-left: 1040px;
+}
+.ree4{
+    margin-left: 20px;
+    bottom: -250px;
+}
+.ree5{
+    margin-left: 520px;
+    bottom: -250px;
+
+}
+.ree6{
+    margin-left: 1040px;
+    bottom: -250px;
+
+}
+.umg{
+    height: 140px;
+    border: 3px solid black;
+    border-radius: 30px;
+
+}
+.occa{
+    position: absolute;
+    margin-left: 180px;
+    transform: scale(0.9);
+    top: 0px;
+}
+.rvi{
+    scale: 1.1;
+    margin-left: 40px;
+}
